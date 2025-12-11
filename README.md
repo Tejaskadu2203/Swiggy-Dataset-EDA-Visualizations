@@ -17,16 +17,13 @@ The goal was to understand customer trends, restaurant performance, and delivery
 
 Jupyter Notebook
 
-**Outputs :
-**
-**Average MRP 
-**
+**Outputs :**
+
+**Average MRP **
 <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/d01de413-f671-4898-8fcf-4dd26cd96502" />
 
-**Pie Chart
-**
+**Pie Chart**
 <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/7d429787-a3a7-4ac0-8016-c295bf29f98e" />
 
-**Dashboard
-**
+**Dashboard**
 <img width="1700" height="1200" alt="Image" src="https://github.com/user-attachments/assets/aee4e818-1848-46a1-b028-29e4dc81fc24" />
