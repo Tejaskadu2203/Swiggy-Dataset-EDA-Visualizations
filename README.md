@@ -17,6 +17,8 @@ The goal was to understand customer trends, restaurant performance, and delivery
 
 Jupyter Notebook
 
+Outputs:
+
 <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/d01de413-f671-4898-8fcf-4dd26cd96502" />
 
 <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/7d429787-a3a7-4ac0-8016-c295bf29f98e" />
