@@ -1,7 +1,7 @@
 A simple data analysis project where I explored a simulated Swiggy food-delivery dataset using Python.
 The goal was to understand customer trends, restaurant performance, and delivery behaviour using Pandas and visualizations.
 
-🔍 What I Did
+**🔍 What I Did**
 
 1) Cleaned and prepared the dataset
 2) Performed exploratory data analysis (EDA)
@@ -9,7 +9,7 @@ The goal was to understand customer trends, restaurant performance, and delivery
 4) Identified top cuisines, delivery insights, and rating behaviour
 5) Generated meaningful business insights
 
-🛠️ Tools Used
+**🛠️ Tools Used**
 
 1) Python
 2) Pandas
@@ -17,10 +17,9 @@ The goal was to understand customer trends, restaurant performance, and delivery
 
 Jupyter Notebook
 
-**Outputs :**
+**Outputs :
 
-
-**Average MRP **
+BAR Chart**
 
 <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/d01de413-f671-4898-8fcf-4dd26cd96502" />
 
