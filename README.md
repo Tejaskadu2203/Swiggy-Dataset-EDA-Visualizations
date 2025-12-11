@@ -17,9 +17,9 @@ The goal was to understand customer trends, restaurant performance, and delivery
 
 Jupyter Notebook
 
-**Outputs :
+**Outputs :**
 
-BAR Chart**
+**BAR Chart**
 
 <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/d01de413-f671-4898-8fcf-4dd26cd96502" />
 
