@@ -1,2 +1,24 @@
-# Swiggy-Dataset-EDA-Visualizations
-This project performs an end-to-end Exploratory Data Analysis (EDA) on a simulated Swiggy food-delivery dataset using Python, Pandas, NumPy, Matplotlib, and Seaborn. It uncovers insights about order patterns, delivery trends, outlet performance, item categories, customer behavior, and revenue distribution to support data-driven decision-making.
+A simple data analysis project where I explored a simulated Swiggy food-delivery dataset using Python.
+The goal was to understand customer trends, restaurant performance, and delivery behaviour using Pandas and visualizations.
+
+🔍 What I Did
+
+Cleaned and prepared the dataset
+
+Performed exploratory data analysis (EDA)
+
+Created visualizations for trends and patterns
+
+Identified top cuisines, delivery insights, and rating behaviour
+
+Generated meaningful business insights
+
+🛠️ Tools Used
+
+Python
+
+Pandas
+
+Matplotlib & Seaborn
+
+Jupyter Notebook
